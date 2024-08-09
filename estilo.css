@@ -1,0 +1,46 @@
+body{
+    background-color:orangered;
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: 4px solid ;
+    width: 30%;
+    margin: auto;
+    padding-bottom: 20px;
+    color: aliceblue;
+}
+
+.cuer{
+    margin-top: 20px;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.imagenes{
+    margin: 20px auto;
+    border: 1px solid;
+    
+}
+img{
+    margin-top:20px;
+    margin-left:20px;    
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: orangered;
+    margin-left: 80px;
+    font-size: 25px;
+}
+.des p{
+    margin-left: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    text-decoration: none;
+    margin-left: 60px;
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+}
